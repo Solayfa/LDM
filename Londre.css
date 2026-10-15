@@ -1,0 +1,16 @@
+* {
+    color: white;
+    background-color: pink;
+}
+
+a {
+    color: pink;
+}
+
+a:hover {
+    color: aqua;
+}
+
+.test {
+    background-color: pink;
+}
