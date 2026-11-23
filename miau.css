@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: grey;
+  height: 150px;
+  gap: 20px;
+}
+
+.item {
+flex-basis: 200px;
+  background: rgb(243, 62, 131);
+}
+

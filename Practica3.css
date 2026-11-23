@@ -1,0 +1,20 @@
+#container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 150px;
+gap: 5px;
+background: grey;
+padding: 20px ;
+border: 3px;
+border-radius: 2px;
+   
+}
+
+.img1{
+    width: 20px;
+    height: 20px;
+    
+
+}
